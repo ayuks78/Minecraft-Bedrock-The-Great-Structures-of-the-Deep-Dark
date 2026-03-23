@@ -1,8 +1,9 @@
-🟢 [Bedrock] The "Deep Dark Labyrinth"     (version;) 1.21+
+🟢 [Bedrock] The "Deep Dark Labyrinth" 🟢   
 
-**SeedSeed**: -12470695177260876
 
-*Discoverer*: ayuks78
+**Seed**: -12470695177260876
+
+*Discoverer*: ayuks78.                 (*Version*; 1.21+)
 
 **English Description**:"I found a very unique spawn where the player starts inside a massive, hollowed-out cave system. I haven't explored 100% of it yet, but here is what I found by following the natural tunnels:
 
